@@ -1,0 +1,20 @@
+{
+  "name": "angular-with",
+  "version": "0.5.1",
+  "main": [
+    "./dist/angular-with.min.js"
+  ],
+  "description": "Simple directive for isolating scope in nested elements",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emerido/angular-with.git"
+  },
+  "dependencies": {
+    "angular": "*"
+  },
+  "ignore": [
+    "node_modules",
+    "components",
+    "lib"
+  ]
+}
